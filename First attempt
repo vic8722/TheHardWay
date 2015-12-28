@@ -1,0 +1,3 @@
+'Input parameters
+
+GridSize = Prompt("Please enter size of puzzle. For example, for a 5x5 grid please enter '5'.");
